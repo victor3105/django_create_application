@@ -80,6 +80,8 @@ DATABASES = {
         'NAME': 'netology_project_application',
         'HOST': '127.0.0.1',
         'PORT': '5432',
+        'USER': 'postgres',
+        'PASSWORD': 'admin',
     }
 }
 
